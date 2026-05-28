@@ -1,0 +1,6 @@
+{
+  "name": "Pullman Hanoi Hotel Booking Chatbot",
+  "description": "Smart AI Reservation Chatbot for Pullman Hanoi Hotel with real-time Google Sheets Synchronization and VietQR Payment Gateway Integrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
